@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{791E9E13-E51C-44FF-BA33-56BED75A90EE}|SkillTest\\SkillTest.csproj|c:\\users\\mypc\\desktop\\csharp\\skilltest\\skilltest\\model\\sortmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E9E13-E51C-44FF-BA33-56BED75A90EE}|SkillTest\\SkillTest.csproj|solutionrelative:skilltest\\model\\sortmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E9E13-E51C-44FF-BA33-56BED75A90EE}|SkillTest\\SkillTest.csproj|C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\skilltest\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{791E9E13-E51C-44FF-BA33-56BED75A90EE}|SkillTest\\SkillTest.csproj|solutionrelative:skilltest\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E9E13-E51C-44FF-BA33-56BED75A90EE}|SkillTest\\SkillTest.csproj|c:\\users\\mypc\\desktop\\csharp\\skilltest\\skilltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E9E13-E51C-44FF-BA33-56BED75A90EE}|SkillTest\\SkillTest.csproj|solutionrelative:skilltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E9E13-E51C-44FF-BA33-56BED75A90EE}|SkillTest\\SkillTest.csproj|c:\\users\\mypc\\desktop\\csharp\\skilltest\\skilltest\\view\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E9E13-E51C-44FF-BA33-56BED75A90EE}|SkillTest\\SkillTest.csproj|solutionrelative:skilltest\\view\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791E9E13-E51C-44FF-BA33-56BED75A90EE}|SkillTest\\SkillTest.csproj|c:\\users\\mypc\\desktop\\csharp\\skilltest\\skilltest\\controller\\sortcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791E9E13-E51C-44FF-BA33-56BED75A90EE}|SkillTest\\SkillTest.csproj|solutionrelative:skilltest\\controller\\sortcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\SkillTest\\View\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "SkillTest\\View\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\SkillTest\\View\\MainForm.Designer.cs",
+              "RelativeToolTip": "SkillTest\\View\\MainForm.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:18:43.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortModel.cs",
+              "DocumentMoniker": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\SkillTest\\Model\\SortModel.cs",
+              "RelativeDocumentMoniker": "SkillTest\\Model\\SortModel.cs",
+              "ToolTip": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\SkillTest\\Model\\SortModel.cs",
+              "RelativeToolTip": "SkillTest\\Model\\SortModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:20:11.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\SkillTest\\Program.cs",
+              "RelativeDocumentMoniker": "SkillTest\\Program.cs",
+              "ToolTip": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\SkillTest\\Program.cs",
+              "RelativeToolTip": "SkillTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:31:18.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\SkillTest\\View\\MainForm.cs",
+              "RelativeDocumentMoniker": "SkillTest\\View\\MainForm.cs",
+              "ToolTip": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\SkillTest\\View\\MainForm.cs [Design]",
+              "RelativeToolTip": "SkillTest\\View\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:10:47.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortController.cs",
+              "DocumentMoniker": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\SkillTest\\Controller\\SortController.cs",
+              "RelativeDocumentMoniker": "SkillTest\\Controller\\SortController.cs",
+              "ToolTip": "C:\\Users\\MypC\\Desktop\\cSharp\\SkillTest\\SkillTest\\Controller\\SortController.cs",
+              "RelativeToolTip": "SkillTest\\Controller\\SortController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:57:05.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
